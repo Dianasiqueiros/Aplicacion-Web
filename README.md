@@ -1,2 +1,2 @@
 # Aplicacion-Web
-reservar restaurantes de la Ciudad de Guadajara a traves de una aplicación web
+De acuerdo a intereses, fechas, horarios y presupuesto recibir una sugerencia de actividades a realizar para conocer la ciudad
